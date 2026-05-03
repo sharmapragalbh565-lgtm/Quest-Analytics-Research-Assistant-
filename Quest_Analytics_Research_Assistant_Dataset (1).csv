@@ -1,0 +1,201 @@
+Project_ID,Research_Topic,Region,Data_Source,Records_Analyzed,Analysis_Method,Model_Accuracy(%),Start_Date,Completion_Date,Report_Status
+QAR-1000,Insurance Claim Pattern Analysis,North,Hospital Records,376228,Regression,74.89,2024-03-11,2024-03-31,Completed
+QAR-1001,Network Adequacy Evaluation,North,CMS Data,358273,Classification,79.03,2023-03-29,2023-04-10,Completed
+QAR-1002,Medical Resource Allocation Review,Central,Hospital Records,159534,Clustering,85.79,2023-03-10,2023-04-25,Pending Review
+QAR-1003,Population Health Metrics Study,North,Public Health Surveys,111481,Clustering,92.3,2024-05-21,2024-06-10,Pending Review
+QAR-1004,Telehealth Utilization Trends,Central,Public Health Surveys,61091,Time Series,72.85,2023-11-20,2023-11-29,In Progress
+QAR-1005,Network Adequacy Evaluation,South,Public Health Surveys,76509,Regression,79.73,2023-07-15,2023-08-24,Completed
+QAR-1006,Medical Resource Allocation Review,Central,CMS Data,365241,Classification,87.25,2023-05-15,2023-06-25,In Progress
+QAR-1007,Provider Coverage Study,West,CMS Data,205974,Regression,84.47,2024-05-15,2024-06-19,In Progress
+QAR-1008,Healthcare Access Analysis,South,Census Data,384332,Classification,82.36,2023-05-06,2023-06-19,Completed
+QAR-1009,Provider Coverage Study,West,CMS Data,239168,Regression,93.51,2023-11-07,2023-12-18,Completed
+QAR-1010,Insurance Claim Pattern Analysis,South,CMS Data,303983,Clustering,84.2,2023-08-26,2023-10-18,In Progress
+QAR-1011,Healthcare Access Analysis,South,Public Health Surveys,101911,Geospatial Analysis,77.53,2023-01-29,2023-02-20,In Progress
+QAR-1012,Medical Resource Allocation Review,South,CMS Data,145735,Geospatial Analysis,85.07,2024-05-23,2024-07-06,Pending Review
+QAR-1013,Medical Resource Allocation Review,North,Insurance Claims,151230,Time Series,76.99,2024-06-21,2024-07-21,Completed
+QAR-1014,Provider Coverage Study,East,Insurance Claims,19811,Classification,75.24,2024-01-15,2024-03-06,Completed
+QAR-1015,Provider Coverage Study,East,CMS Data,284827,Clustering,71.62,2023-02-04,2023-02-23,Completed
+QAR-1016,Rural Healthcare Gap Assessment,Central,Public Health Surveys,149142,Classification,91.71,2023-02-05,2023-03-01,In Progress
+QAR-1017,Provider Coverage Study,East,Hospital Records,301022,Geospatial Analysis,83.06,2023-06-28,2023-08-07,Pending Review
+QAR-1018,Healthcare Access Analysis,Central,Hospital Records,454113,Regression,79.49,2023-04-02,2023-05-22,Pending Review
+QAR-1019,Insurance Claim Pattern Analysis,South,Census Data,415499,Classification,96.76,2023-01-09,2023-01-16,Pending Review
+QAR-1020,Provider Coverage Study,Central,Census Data,295452,Geospatial Analysis,83.62,2024-02-07,2024-03-07,In Progress
+QAR-1021,Telehealth Utilization Trends,South,Hospital Records,481449,Time Series,77.44,2023-04-01,2023-04-08,In Progress
+QAR-1022,Telehealth Utilization Trends,North,CMS Data,51070,Time Series,96.42,2023-06-18,2023-08-15,Completed
+QAR-1023,Rural Healthcare Gap Assessment,West,Hospital Records,206072,Geospatial Analysis,94.21,2024-02-06,2024-03-16,Pending Review
+QAR-1024,Population Health Metrics Study,Central,Census Data,207795,Time Series,81.43,2023-09-23,2023-10-14,Completed
+QAR-1025,Population Health Metrics Study,Central,Insurance Claims,174308,Geospatial Analysis,97.42,2023-06-22,2023-07-27,Completed
+QAR-1026,Network Adequacy Evaluation,East,Census Data,420376,Regression,94.66,2023-04-07,2023-05-24,Completed
+QAR-1027,Medical Resource Allocation Review,North,CMS Data,45717,Classification,92.38,2023-05-11,2023-06-30,In Progress
+QAR-1028,Insurance Claim Pattern Analysis,East,Insurance Claims,146270,Geospatial Analysis,95.21,2024-03-20,2024-05-11,Pending Review
+QAR-1029,Medical Resource Allocation Review,South,Insurance Claims,166854,Time Series,93.84,2023-08-31,2023-10-11,Completed
+QAR-1030,Provider Coverage Study,North,Public Health Surveys,282568,Clustering,96.4,2024-03-08,2024-04-11,Pending Review
+QAR-1031,Medical Resource Allocation Review,North,Public Health Surveys,95615,Geospatial Analysis,95.11,2023-10-25,2023-11-20,Completed
+QAR-1032,Insurance Claim Pattern Analysis,South,Insurance Claims,95610,Geospatial Analysis,76.02,2023-04-22,2023-05-01,Completed
+QAR-1033,Insurance Claim Pattern Analysis,North,Census Data,444978,Classification,91.59,2023-09-27,2023-11-09,Pending Review
+QAR-1034,Healthcare Access Analysis,North,Insurance Claims,74813,Clustering,74.08,2024-07-16,2024-07-26,In Progress
+QAR-1035,Telehealth Utilization Trends,West,Public Health Surveys,167624,Geospatial Analysis,88.61,2023-06-19,2023-08-04,Pending Review
+QAR-1036,Telehealth Utilization Trends,South,Insurance Claims,280656,Geospatial Analysis,83.36,2024-01-17,2024-03-15,Completed
+QAR-1037,Population Health Metrics Study,West,Hospital Records,203584,Time Series,86.11,2024-04-12,2024-05-17,Completed
+QAR-1038,Medical Resource Allocation Review,Central,Public Health Surveys,196773,Geospatial Analysis,95.24,2024-01-30,2024-02-21,In Progress
+QAR-1039,Medical Resource Allocation Review,North,CMS Data,402774,Regression,97.94,2023-02-13,2023-04-08,Pending Review
+QAR-1040,Network Adequacy Evaluation,North,Insurance Claims,196244,Classification,82.42,2023-08-11,2023-09-07,In Progress
+QAR-1041,Insurance Claim Pattern Analysis,West,CMS Data,141832,Geospatial Analysis,76.59,2024-02-02,2024-02-28,In Progress
+QAR-1042,Network Adequacy Evaluation,East,CMS Data,424724,Regression,74.11,2023-04-23,2023-05-04,Pending Review
+QAR-1043,Provider Coverage Study,Central,Census Data,156387,Regression,95.31,2024-07-03,2024-08-31,Completed
+QAR-1044,Insurance Claim Pattern Analysis,North,Public Health Surveys,109245,Time Series,93.78,2023-02-19,2023-04-07,Completed
+QAR-1045,Population Health Metrics Study,West,Census Data,332042,Geospatial Analysis,81.61,2023-05-19,2023-06-24,In Progress
+QAR-1046,Population Health Metrics Study,East,Census Data,312906,Clustering,92.85,2024-05-08,2024-07-06,In Progress
+QAR-1047,Rural Healthcare Gap Assessment,North,CMS Data,155473,Classification,78.31,2023-09-22,2023-11-10,Pending Review
+QAR-1048,Provider Coverage Study,East,Hospital Records,297677,Geospatial Analysis,78.39,2024-03-08,2024-04-18,Pending Review
+QAR-1049,Rural Healthcare Gap Assessment,South,Insurance Claims,430724,Time Series,90.91,2024-02-07,2024-03-06,Pending Review
+QAR-1050,Provider Coverage Study,Central,Census Data,23377,Regression,93.53,2023-10-11,2023-11-15,Pending Review
+QAR-1051,Rural Healthcare Gap Assessment,Central,CMS Data,136392,Time Series,92.8,2024-05-26,2024-06-12,Pending Review
+QAR-1052,Rural Healthcare Gap Assessment,West,Public Health Surveys,456609,Clustering,80.96,2023-03-26,2023-04-06,Pending Review
+QAR-1053,Provider Coverage Study,North,Hospital Records,186134,Regression,71.67,2023-10-07,2023-10-21,Pending Review
+QAR-1054,Population Health Metrics Study,South,Census Data,301680,Clustering,95.98,2023-04-10,2023-06-05,Pending Review
+QAR-1055,Medical Resource Allocation Review,East,Public Health Surveys,151103,Classification,77.94,2023-02-11,2023-03-19,Pending Review
+QAR-1056,Medical Resource Allocation Review,Central,CMS Data,124942,Geospatial Analysis,90.95,2024-08-11,2024-09-26,Pending Review
+QAR-1057,Medical Resource Allocation Review,Central,Hospital Records,59550,Clustering,84.37,2024-03-17,2024-04-03,Pending Review
+QAR-1058,Network Adequacy Evaluation,North,Public Health Surveys,312917,Classification,87.22,2023-09-15,2023-10-06,In Progress
+QAR-1059,Healthcare Access Analysis,West,Hospital Records,121326,Regression,93.27,2023-03-06,2023-05-05,Completed
+QAR-1060,Insurance Claim Pattern Analysis,North,Census Data,494812,Clustering,81.26,2024-04-23,2024-05-05,Pending Review
+QAR-1061,Medical Resource Allocation Review,South,Insurance Claims,261978,Geospatial Analysis,93.48,2023-07-03,2023-08-01,In Progress
+QAR-1062,Insurance Claim Pattern Analysis,East,Hospital Records,452968,Regression,79.4,2023-04-17,2023-06-14,Pending Review
+QAR-1063,Telehealth Utilization Trends,West,Census Data,45617,Time Series,72.83,2023-06-10,2023-07-06,Pending Review
+QAR-1064,Medical Resource Allocation Review,Central,Public Health Surveys,359150,Time Series,95.3,2023-08-24,2023-09-14,Completed
+QAR-1065,Population Health Metrics Study,South,Census Data,54025,Regression,76.75,2024-08-02,2024-08-15,Pending Review
+QAR-1066,Healthcare Access Analysis,South,Insurance Claims,124506,Regression,74.31,2024-06-20,2024-07-13,Pending Review
+QAR-1067,Population Health Metrics Study,South,Census Data,284720,Time Series,86.81,2024-07-06,2024-08-08,Completed
+QAR-1068,Provider Coverage Study,East,Public Health Surveys,86661,Clustering,72.89,2023-04-24,2023-05-19,Completed
+QAR-1069,Population Health Metrics Study,East,Hospital Records,11334,Time Series,85.79,2023-06-22,2023-06-29,In Progress
+QAR-1070,Telehealth Utilization Trends,North,Hospital Records,372591,Time Series,88.24,2023-04-18,2023-05-13,Completed
+QAR-1071,Network Adequacy Evaluation,West,Hospital Records,24716,Time Series,79.99,2023-08-12,2023-08-27,Completed
+QAR-1072,Telehealth Utilization Trends,East,Hospital Records,222134,Regression,77.79,2023-04-28,2023-05-16,Pending Review
+QAR-1073,Medical Resource Allocation Review,South,Hospital Records,477325,Time Series,75.87,2023-10-21,2023-12-20,Completed
+QAR-1074,Medical Resource Allocation Review,East,CMS Data,223190,Time Series,96.28,2024-02-24,2024-04-10,Completed
+QAR-1075,Telehealth Utilization Trends,South,Hospital Records,163878,Classification,93.39,2024-08-11,2024-09-22,Completed
+QAR-1076,Telehealth Utilization Trends,West,Public Health Surveys,470362,Clustering,73.38,2023-04-18,2023-06-09,Completed
+QAR-1077,Network Adequacy Evaluation,South,Census Data,77778,Regression,95.9,2023-09-08,2023-10-26,Pending Review
+QAR-1078,Population Health Metrics Study,East,Insurance Claims,37341,Clustering,77.94,2023-04-18,2023-05-05,In Progress
+QAR-1079,Medical Resource Allocation Review,West,Insurance Claims,301897,Regression,89.95,2024-06-29,2024-08-28,In Progress
+QAR-1080,Medical Resource Allocation Review,West,Hospital Records,183040,Regression,93.16,2023-05-05,2023-07-02,Pending Review
+QAR-1081,Network Adequacy Evaluation,West,Public Health Surveys,450524,Time Series,96.62,2023-02-20,2023-03-28,In Progress
+QAR-1082,Healthcare Access Analysis,Central,Census Data,329778,Regression,81.48,2023-04-18,2023-05-05,In Progress
+QAR-1083,Network Adequacy Evaluation,North,CMS Data,490258,Time Series,93.0,2024-04-22,2024-06-09,Completed
+QAR-1084,Provider Coverage Study,East,Insurance Claims,208089,Geospatial Analysis,72.59,2024-04-08,2024-06-07,Completed
+QAR-1085,Provider Coverage Study,West,CMS Data,457368,Regression,97.69,2023-09-22,2023-11-15,In Progress
+QAR-1086,Provider Coverage Study,North,Census Data,334298,Time Series,73.17,2024-05-03,2024-05-25,Completed
+QAR-1087,Population Health Metrics Study,South,Census Data,38199,Time Series,92.09,2024-02-14,2024-03-11,In Progress
+QAR-1088,Medical Resource Allocation Review,North,Hospital Records,79316,Classification,87.41,2024-02-09,2024-03-19,Pending Review
+QAR-1089,Network Adequacy Evaluation,East,Hospital Records,217436,Regression,89.96,2024-01-20,2024-02-15,Pending Review
+QAR-1090,Population Health Metrics Study,North,Census Data,341043,Classification,88.06,2024-06-13,2024-07-05,Pending Review
+QAR-1091,Telehealth Utilization Trends,North,CMS Data,87691,Geospatial Analysis,95.35,2023-04-23,2023-06-16,In Progress
+QAR-1092,Provider Coverage Study,South,CMS Data,475751,Regression,94.67,2023-05-11,2023-06-01,Completed
+QAR-1093,Medical Resource Allocation Review,East,Insurance Claims,140747,Geospatial Analysis,83.44,2023-07-02,2023-07-28,Completed
+QAR-1094,Healthcare Access Analysis,West,CMS Data,377838,Clustering,94.96,2023-10-26,2023-11-26,In Progress
+QAR-1095,Healthcare Access Analysis,South,Public Health Surveys,76400,Geospatial Analysis,95.34,2023-11-05,2023-11-28,Pending Review
+QAR-1096,Population Health Metrics Study,Central,CMS Data,7095,Clustering,97.68,2024-04-08,2024-05-19,Completed
+QAR-1097,Population Health Metrics Study,North,Hospital Records,205297,Geospatial Analysis,87.68,2024-03-30,2024-05-10,In Progress
+QAR-1098,Healthcare Access Analysis,South,Hospital Records,82644,Geospatial Analysis,83.79,2024-07-12,2024-08-16,Pending Review
+QAR-1099,Healthcare Access Analysis,North,Census Data,186319,Classification,72.81,2024-05-14,2024-06-20,In Progress
+QAR-1100,Insurance Claim Pattern Analysis,South,Public Health Surveys,162327,Geospatial Analysis,82.61,2024-01-16,2024-01-23,Pending Review
+QAR-1101,Network Adequacy Evaluation,South,Hospital Records,72173,Clustering,88.09,2023-04-12,2023-05-22,Completed
+QAR-1102,Healthcare Access Analysis,East,Hospital Records,121156,Regression,72.21,2023-06-11,2023-08-06,Pending Review
+QAR-1103,Medical Resource Allocation Review,East,CMS Data,379368,Time Series,72.62,2023-05-22,2023-07-14,Completed
+QAR-1104,Rural Healthcare Gap Assessment,South,CMS Data,136602,Time Series,73.0,2023-08-16,2023-09-03,Completed
+QAR-1105,Medical Resource Allocation Review,South,Hospital Records,123417,Regression,79.51,2023-07-17,2023-08-03,Pending Review
+QAR-1106,Network Adequacy Evaluation,South,CMS Data,331164,Geospatial Analysis,75.18,2024-03-05,2024-04-12,In Progress
+QAR-1107,Healthcare Access Analysis,Central,Census Data,168044,Classification,88.44,2023-08-10,2023-09-22,In Progress
+QAR-1108,Provider Coverage Study,South,Insurance Claims,390070,Classification,79.76,2024-07-29,2024-08-24,Pending Review
+QAR-1109,Rural Healthcare Gap Assessment,West,Insurance Claims,277098,Classification,95.68,2024-06-13,2024-08-05,In Progress
+QAR-1110,Population Health Metrics Study,West,Public Health Surveys,202471,Geospatial Analysis,91.73,2023-03-29,2023-04-21,In Progress
+QAR-1111,Medical Resource Allocation Review,West,Census Data,451829,Clustering,74.34,2024-06-15,2024-07-01,Pending Review
+QAR-1112,Telehealth Utilization Trends,South,Insurance Claims,391855,Clustering,73.93,2023-02-10,2023-03-10,Pending Review
+QAR-1113,Population Health Metrics Study,Central,Hospital Records,17448,Geospatial Analysis,73.6,2024-07-22,2024-08-15,In Progress
+QAR-1114,Healthcare Access Analysis,West,CMS Data,234921,Classification,84.45,2024-06-07,2024-07-08,Pending Review
+QAR-1115,Provider Coverage Study,Central,Public Health Surveys,249623,Clustering,91.48,2023-05-11,2023-06-25,Completed
+QAR-1116,Telehealth Utilization Trends,East,Census Data,47358,Geospatial Analysis,74.71,2024-07-11,2024-08-10,In Progress
+QAR-1117,Rural Healthcare Gap Assessment,North,Hospital Records,189096,Classification,79.26,2023-10-06,2023-11-09,Completed
+QAR-1118,Medical Resource Allocation Review,South,Insurance Claims,156685,Classification,84.46,2024-04-15,2024-05-27,Pending Review
+QAR-1119,Population Health Metrics Study,Central,Census Data,185377,Clustering,74.51,2024-08-23,2024-09-08,Pending Review
+QAR-1120,Medical Resource Allocation Review,Central,Insurance Claims,296802,Classification,71.45,2023-01-07,2023-01-29,Completed
+QAR-1121,Medical Resource Allocation Review,West,Census Data,321694,Clustering,88.32,2024-07-15,2024-07-27,In Progress
+QAR-1122,Insurance Claim Pattern Analysis,East,Insurance Claims,339505,Time Series,83.89,2024-01-25,2024-03-25,Pending Review
+QAR-1123,Network Adequacy Evaluation,North,Census Data,35398,Clustering,77.28,2024-07-25,2024-09-05,Pending Review
+QAR-1124,Network Adequacy Evaluation,South,CMS Data,186383,Classification,76.35,2024-02-01,2024-03-10,Pending Review
+QAR-1125,Network Adequacy Evaluation,West,Public Health Surveys,257927,Geospatial Analysis,84.42,2024-03-23,2024-04-29,In Progress
+QAR-1126,Telehealth Utilization Trends,South,Public Health Surveys,137841,Clustering,83.18,2023-02-24,2023-04-06,In Progress
+QAR-1127,Healthcare Access Analysis,North,Hospital Records,273463,Geospatial Analysis,76.28,2023-10-14,2023-10-28,In Progress
+QAR-1128,Provider Coverage Study,West,CMS Data,176956,Geospatial Analysis,93.93,2023-11-20,2024-01-18,Completed
+QAR-1129,Rural Healthcare Gap Assessment,East,Insurance Claims,286933,Geospatial Analysis,97.92,2024-01-18,2024-02-04,In Progress
+QAR-1130,Rural Healthcare Gap Assessment,Central,Insurance Claims,180816,Time Series,74.78,2023-08-22,2023-09-28,Pending Review
+QAR-1131,Population Health Metrics Study,North,CMS Data,472797,Classification,97.22,2023-06-08,2023-07-31,In Progress
+QAR-1132,Provider Coverage Study,East,Insurance Claims,493393,Geospatial Analysis,82.48,2023-01-03,2023-02-06,Completed
+QAR-1133,Provider Coverage Study,South,Public Health Surveys,448753,Clustering,91.96,2023-06-16,2023-08-01,Completed
+QAR-1134,Rural Healthcare Gap Assessment,North,Insurance Claims,235143,Regression,83.53,2024-05-13,2024-05-25,In Progress
+QAR-1135,Healthcare Access Analysis,South,Census Data,152303,Clustering,87.31,2023-08-26,2023-10-21,Completed
+QAR-1136,Healthcare Access Analysis,North,Census Data,43594,Clustering,70.49,2024-05-12,2024-06-04,In Progress
+QAR-1137,Provider Coverage Study,Central,CMS Data,11660,Time Series,89.64,2023-06-30,2023-08-06,Pending Review
+QAR-1138,Population Health Metrics Study,North,CMS Data,197537,Classification,78.63,2023-07-26,2023-09-10,Pending Review
+QAR-1139,Healthcare Access Analysis,Central,Census Data,156406,Clustering,84.18,2024-05-17,2024-05-27,Pending Review
+QAR-1140,Provider Coverage Study,East,Census Data,352365,Geospatial Analysis,83.75,2023-12-05,2023-12-22,In Progress
+QAR-1141,Healthcare Access Analysis,East,Insurance Claims,493740,Regression,81.25,2024-03-08,2024-03-26,In Progress
+QAR-1142,Population Health Metrics Study,East,Hospital Records,128567,Time Series,94.84,2023-08-08,2023-08-24,Completed
+QAR-1143,Healthcare Access Analysis,North,CMS Data,376839,Time Series,77.93,2023-09-05,2023-10-29,Pending Review
+QAR-1144,Population Health Metrics Study,Central,Insurance Claims,82679,Regression,85.29,2023-11-22,2023-12-14,Pending Review
+QAR-1145,Provider Coverage Study,North,CMS Data,335362,Clustering,70.28,2023-02-03,2023-02-12,In Progress
+QAR-1146,Population Health Metrics Study,East,Census Data,455127,Classification,75.37,2024-01-18,2024-02-16,In Progress
+QAR-1147,Insurance Claim Pattern Analysis,South,Insurance Claims,149977,Classification,71.26,2023-11-17,2023-12-23,Pending Review
+QAR-1148,Insurance Claim Pattern Analysis,East,Hospital Records,446321,Time Series,78.44,2024-03-02,2024-04-03,Pending Review
+QAR-1149,Rural Healthcare Gap Assessment,South,CMS Data,282404,Clustering,96.54,2023-02-06,2023-02-20,In Progress
+QAR-1150,Telehealth Utilization Trends,East,Public Health Surveys,492279,Clustering,91.27,2024-02-06,2024-02-14,Pending Review
+QAR-1151,Rural Healthcare Gap Assessment,East,CMS Data,152146,Geospatial Analysis,80.92,2024-05-14,2024-06-21,In Progress
+QAR-1152,Provider Coverage Study,Central,Public Health Surveys,452543,Time Series,88.22,2023-09-17,2023-10-17,In Progress
+QAR-1153,Healthcare Access Analysis,North,Public Health Surveys,199932,Time Series,82.91,2023-01-01,2023-01-28,Completed
+QAR-1154,Provider Coverage Study,North,Insurance Claims,235460,Time Series,82.97,2024-03-14,2024-04-20,In Progress
+QAR-1155,Population Health Metrics Study,Central,Public Health Surveys,291094,Classification,87.27,2023-09-20,2023-10-06,Completed
+QAR-1156,Provider Coverage Study,East,Hospital Records,237218,Clustering,83.59,2023-09-17,2023-09-27,In Progress
+QAR-1157,Telehealth Utilization Trends,Central,Public Health Surveys,332527,Clustering,95.44,2024-01-01,2024-02-14,Pending Review
+QAR-1158,Population Health Metrics Study,North,Census Data,421372,Classification,78.07,2023-02-16,2023-03-22,In Progress
+QAR-1159,Provider Coverage Study,West,Public Health Surveys,455023,Clustering,97.9,2024-08-21,2024-09-29,In Progress
+QAR-1160,Provider Coverage Study,Central,Public Health Surveys,49859,Time Series,73.3,2023-06-22,2023-08-04,In Progress
+QAR-1161,Medical Resource Allocation Review,South,Census Data,14531,Regression,75.21,2024-02-12,2024-04-02,Completed
+QAR-1162,Healthcare Access Analysis,North,Hospital Records,154128,Classification,93.35,2023-05-23,2023-06-19,Pending Review
+QAR-1163,Telehealth Utilization Trends,West,Census Data,77245,Geospatial Analysis,84.97,2024-04-02,2024-05-29,Pending Review
+QAR-1164,Healthcare Access Analysis,Central,Census Data,395278,Classification,75.88,2023-06-18,2023-07-08,Pending Review
+QAR-1165,Provider Coverage Study,West,CMS Data,428763,Geospatial Analysis,77.55,2023-12-14,2024-01-12,In Progress
+QAR-1166,Rural Healthcare Gap Assessment,South,CMS Data,440303,Clustering,92.77,2023-08-11,2023-09-29,In Progress
+QAR-1167,Provider Coverage Study,North,Hospital Records,26742,Classification,81.88,2023-03-19,2023-03-29,In Progress
+QAR-1168,Insurance Claim Pattern Analysis,Central,Hospital Records,141210,Geospatial Analysis,88.73,2024-01-25,2024-02-01,Pending Review
+QAR-1169,Telehealth Utilization Trends,West,CMS Data,147995,Time Series,91.91,2023-03-22,2023-04-23,Pending Review
+QAR-1170,Rural Healthcare Gap Assessment,North,Insurance Claims,143106,Time Series,86.46,2024-06-20,2024-08-15,Pending Review
+QAR-1171,Provider Coverage Study,North,Public Health Surveys,150037,Classification,91.52,2024-03-17,2024-05-15,Completed
+QAR-1172,Insurance Claim Pattern Analysis,Central,Hospital Records,327802,Geospatial Analysis,82.06,2023-06-02,2023-07-02,Completed
+QAR-1173,Provider Coverage Study,West,CMS Data,487632,Regression,76.2,2024-07-08,2024-07-15,In Progress
+QAR-1174,Network Adequacy Evaluation,South,Census Data,491055,Regression,74.58,2023-05-28,2023-06-06,In Progress
+QAR-1175,Network Adequacy Evaluation,East,Public Health Surveys,331250,Clustering,93.25,2023-01-20,2023-02-18,Pending Review
+QAR-1176,Healthcare Access Analysis,South,Census Data,327127,Time Series,97.43,2024-05-05,2024-06-26,In Progress
+QAR-1177,Insurance Claim Pattern Analysis,East,Insurance Claims,184871,Geospatial Analysis,93.15,2024-04-22,2024-05-20,Completed
+QAR-1178,Population Health Metrics Study,North,Public Health Surveys,330524,Clustering,82.25,2024-04-06,2024-05-09,Completed
+QAR-1179,Medical Resource Allocation Review,East,Insurance Claims,308911,Time Series,90.55,2024-02-24,2024-04-23,Pending Review
+QAR-1180,Population Health Metrics Study,West,Public Health Surveys,197636,Regression,90.48,2024-06-27,2024-07-11,Completed
+QAR-1181,Population Health Metrics Study,North,Public Health Surveys,51030,Time Series,76.49,2024-06-03,2024-06-12,In Progress
+QAR-1182,Medical Resource Allocation Review,South,Public Health Surveys,259011,Regression,89.85,2023-06-29,2023-07-29,Completed
+QAR-1183,Healthcare Access Analysis,Central,CMS Data,403148,Regression,89.85,2024-06-05,2024-07-22,In Progress
+QAR-1184,Provider Coverage Study,South,Census Data,233106,Geospatial Analysis,91.88,2024-02-02,2024-03-11,Completed
+QAR-1185,Provider Coverage Study,West,Census Data,302991,Classification,95.24,2024-06-25,2024-08-06,Pending Review
+QAR-1186,Network Adequacy Evaluation,South,Census Data,82726,Geospatial Analysis,77.57,2023-09-30,2023-11-23,Pending Review
+QAR-1187,Network Adequacy Evaluation,South,CMS Data,245240,Classification,75.94,2024-08-20,2024-10-03,In Progress
+QAR-1188,Network Adequacy Evaluation,North,CMS Data,197783,Geospatial Analysis,91.07,2024-02-02,2024-04-02,Completed
+QAR-1189,Healthcare Access Analysis,East,Public Health Surveys,147476,Regression,81.28,2023-10-01,2023-10-14,Completed
+QAR-1190,Rural Healthcare Gap Assessment,Central,Census Data,328969,Regression,70.74,2023-03-11,2023-03-21,Pending Review
+QAR-1191,Healthcare Access Analysis,South,CMS Data,105720,Clustering,76.21,2024-06-15,2024-08-07,In Progress
+QAR-1192,Provider Coverage Study,North,Public Health Surveys,16019,Regression,91.1,2023-10-27,2023-12-09,In Progress
+QAR-1193,Network Adequacy Evaluation,South,CMS Data,461217,Clustering,73.5,2024-04-01,2024-04-22,In Progress
+QAR-1194,Insurance Claim Pattern Analysis,West,Insurance Claims,11476,Time Series,80.38,2023-05-13,2023-07-09,Completed
+QAR-1195,Healthcare Access Analysis,North,Hospital Records,217787,Geospatial Analysis,83.44,2024-04-23,2024-05-20,In Progress
+QAR-1196,Provider Coverage Study,North,Public Health Surveys,487203,Geospatial Analysis,93.84,2023-03-03,2023-04-25,Completed
+QAR-1197,Insurance Claim Pattern Analysis,South,Hospital Records,153586,Regression,82.74,2023-06-03,2023-07-07,In Progress
+QAR-1198,Provider Coverage Study,North,Hospital Records,492163,Geospatial Analysis,78.58,2023-09-19,2023-11-14,Pending Review
+QAR-1199,Network Adequacy Evaluation,Central,Public Health Surveys,185520,Classification,82.35,2023-03-03,2023-03-22,In Progress
